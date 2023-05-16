@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Julian (@JulianURB)
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Python.
 
 
 <!---
