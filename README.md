@@ -20,22 +20,6 @@
   </a> 
 </p>
 <br />
-
-<!-- About Section -->
- # Sobre Mi
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Disfruto mucho programar todos los dias <br/><br/>
- ❤️ &emsp; Me encanta aprender todos los dias algo nuevo <br/><br/>
- 📧 &emsp; Podes escribirme en cualquier momento: julianu040@gmail.com<br/><br/>
- 💬 &emsp; Poder preguntarme cualquier cosa [acá]([https://github.com/JulianURB/JulianURB/issues])
-
-</p>
-
-<br/>
-<br/>
 <br/>
 
 ## Programo actualmente en...
@@ -50,7 +34,6 @@
 
 <br/>
 
-
 <p align="center">
   <a href="https://github.com/julianurb">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=julianurb&theme=dark&locale=es" alt="Julian GitHub Racha"/>
@@ -63,10 +46,10 @@
   </a>
 </p>
 <a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/julianurb"><img alt="Julian's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=julianurb&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/julianurb"><img alt="Julian Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=julianurb&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Grafico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=julianurb&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
