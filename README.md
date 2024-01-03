@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/julianurb">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianurb&theme=radical" alt="Julian GitHub Contribution"/>
   </a>
 </p>
