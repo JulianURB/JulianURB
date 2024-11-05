@@ -1,23 +1,17 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hola! Mi nombre es
-                <b><a target="_blank" href="https://inlake.site">Julian Urbani</a></b>
+                <b><a>Julian</a></b>
         </samp>
 </h3>
 
 <p align="center">
- <a href="http://inlake.site" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
  <a href="https://linkedin.com/in/julian-urbani" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <a href="https://instagram.com/julianurv" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
- <a href="https://facebook.com/thyartofmurd" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
 </p>
 <br />
 <br/>
